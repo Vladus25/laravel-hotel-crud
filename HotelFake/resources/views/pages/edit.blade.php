@@ -39,6 +39,7 @@
 
         <div class="button-center">
           <button type="submit" class="home">Update Employee</button>
+          <a class="home" href="{{route('home')}}">List Employees</a>
         </div>
 
       </form>

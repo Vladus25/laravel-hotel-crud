@@ -43,7 +43,7 @@
     </div>
 
     <div class="button-center">
-      <a class="home" href="{{route('home')}}">List Games</a>
+      <a class="home" href="{{route('home')}}">List Employees</a>
     </div>
 
   </main>
